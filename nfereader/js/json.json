@@ -1,0 +1,2900 @@
+{
+  "vICMS": 0.0,
+
+  "vBC": 0.0,
+
+  "chNFe": "",
+
+  "ItemNFCeList": [
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 1,
+
+      "cProd": "6019",
+
+      "xProd": "QUINOA FLOCOS A GRANEL",
+
+      "NCM": "11041900",
+
+      "CFOP": "5102",
+
+      "uCom": "KG",
+
+      "qCom": 0.098,
+
+      "vUnCom": 38.99,
+
+      "vProd": 30.82,
+
+      "vDesc": 0.13,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "102",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 3.69,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 3.69,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "QUINOA FLOCOS A GRANEL",
+
+      "pRedBC": 0.0,
+
+      "CEST": "0000000",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 2,
+
+      "cProd": "6003",
+
+      "xProd": "CANELA EM PO A GRANEL",
+
+      "NCM": "09062000",
+
+      "CFOP": "5102",
+
+      "uCom": "KG",
+
+      "qCom": 0.052,
+
+      "vUnCom": 22.99,
+
+      "vProd": 1.2,
+
+      "vDesc": 0.04,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "102",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 1.16,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 1.16,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "CANELA EM PO A GRANEL",
+
+      "pRedBC": 0.0,
+
+      "CEST": "0000000",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 3,
+
+      "cProd": "7038",
+
+      "xProd": "ERVILHA A GRANEL",
+
+      "NCM": "07131090",
+
+      "CFOP": "5102",
+
+      "uCom": "KG",
+
+      "qCom": 0.104,
+
+      "vUnCom": 9.99,
+
+      "vProd": 1.04,
+
+      "vDesc": 0.03,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "102",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 1.01,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 1.01,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "ERVILHA A GRANEL",
+
+      "pRedBC": 0.0,
+
+      "CEST": "0000000",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 4,
+
+      "cProd": "7005",
+
+      "xProd": "GRAO DE BICO 12MM REC A GRANEL",
+
+      "NCM": "07132090",
+
+      "CFOP": "5102",
+
+      "uCom": "KG",
+
+      "qCom": 0.304,
+
+      "vUnCom": 12.99,
+
+      "vProd": 3.95,
+
+      "vDesc": 0.13,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "102",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 3.82,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 3.82,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "GRAO DE BICO 12MM REC A GRANEL",
+
+      "pRedBC": 0.0,
+
+      "CEST": "0000000",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 5,
+
+      "cProd": "6014",
+
+      "xProd": "GERGELIM INT COM CASCA A GRANEL",
+
+      "NCM": "12074090",
+
+      "CFOP": "5102",
+
+      "uCom": "KG",
+
+      "qCom": 0.054,
+
+      "vUnCom": 27.99,
+
+      "vProd": 1.51,
+
+      "vDesc": 0.05,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "102",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 1.46,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 1.46,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "GERGELIM INT COM CASCA A GRANEL",
+
+      "pRedBC": 0.0,
+
+      "CEST": "0000000",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 7,
+
+      "cProd": "6015",
+
+      "xProd": "GERGELIM PRETO PREMIUM A GRANEL",
+
+      "NCM": "12074090",
+
+      "CFOP": "5102",
+
+      "uCom": "KG",
+
+      "qCom": 0.06,
+
+      "vUnCom": 29.99,
+
+      "vProd": 1.8,
+
+      "vDesc": 0.06,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "102",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 1.74,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 1.74,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "GERGELIM PRETO PREMIUM A GRANEL",
+
+      "pRedBC": 0.0,
+
+      "CEST": "0000000",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 8,
+
+      "cProd": "6032",
+
+      "xProd": "TAMARA SEM CAROCO A GRANEL",
+
+      "NCM": "08041020",
+
+      "CFOP": "5102",
+
+      "uCom": "KG",
+
+      "qCom": 0.218,
+
+      "vUnCom": 44.99,
+
+      "vProd": 9.81,
+
+      "vDesc": 0.33,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "102",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 9.48,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 9.48,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "TAMARA SEM CAROCO A GRANEL",
+
+      "pRedBC": 0.0,
+
+      "CEST": "0000000",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 9,
+
+      "cProd": "6096",
+
+      "xProd": "FARINHA DE AMENDOAS A GRANEL",
+
+      "NCM": "11063000",
+
+      "CFOP": "5102",
+
+      "uCom": "KG",
+
+      "qCom": 0.304,
+
+      "vUnCom": 81.99,
+
+      "vProd": 24.9,
+
+      "vDesc": 0.83,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "102",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 24.09,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 24.09,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "FARINHA DE AMENDOAS A GRANEL",
+
+      "pRedBC": 0.0,
+
+      "CEST": "0000000",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 10,
+
+      "cProd": "6007",
+
+      "xProd": "SEMENTE DE LINHACA DOURADA A GRANEL",
+
+      "NCM": "12040090",
+
+      "CFOP": "5102",
+
+      "uCom": "KG",
+
+      "qCom": 0.082,
+
+      "vUnCom": 12.99,
+
+      "vProd": 1.07,
+
+      "vDesc": 0.04,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "102",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 1.03,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 1.03,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "SEMENTE DE LINHACA DOURADA A GRANEL",
+
+      "pRedBC": 0.0,
+
+      "CEST": "0000000",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 11,
+
+      "cProd": "6011",
+
+      "xProd": "DAMASCO TURCO A GRANEL",
+
+      "NCM": "08131000",
+
+      "CFOP": "5102",
+
+      "uCom": "KG",
+
+      "qCom": 0.202,
+
+      "vUnCom": 34.99,
+
+      "vProd": 7.07,
+
+      "vDesc": 0.24,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "102",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 6.83,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 6.83,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "DAMASCO TURCO A GRANEL",
+
+      "pRedBC": 0.0,
+
+      "CEST": "0000000",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 12,
+
+      "cProd": "6235",
+
+      "xProd": "BALA DE BANANA SEM ACUCAR A GRANEL",
+
+      "NCM": "20079990",
+
+      "CFOP": "5405",
+
+      "uCom": "KG",
+
+      "qCom": 0.17,
+
+      "vUnCom": 38.5,
+
+      "vProd": 6.55,
+
+      "vDesc": 0.22,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "500",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "pST": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 6.32,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 6.32,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "BALA DE BANANA SEM ACUCAR A GRANEL",
+
+      "pRedBC": 0.0,
+
+      "vBCSTRet": 0.0,
+
+      "vICMSSTRet": 0.0,
+
+      "CEST": "1709401",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 13,
+
+      "cProd": "6198",
+
+      "xProd": "CASTANHA PARA A GRANEL",
+
+      "NCM": "08012200",
+
+      "CFOP": "5102",
+
+      "uCom": "KG",
+
+      "qCom": 0.304,
+
+      "vUnCom": 59.99,
+
+      "vProd": 18.24,
+
+      "vDesc": 0.61,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "102",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 17.63,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 17.63,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "CASTANHA PARA A GRANEL",
+
+      "pRedBC": 0.0,
+
+      "CEST": "0000000",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 14,
+
+      "cProd": "7029",
+
+      "xProd": "AMENDOA NATURAL A GRANEL",
+
+      "NCM": "08021200",
+
+      "CFOP": "5102",
+
+      "uCom": "KG",
+
+      "qCom": 0.2,
+
+      "vUnCom": 81.99,
+
+      "vProd": 16.4,
+
+      "vDesc": 0.55,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "102",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 15.85,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 15.85,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "AMENDOA NATURAL A GRANEL",
+
+      "pRedBC": 0.0,
+
+      "vLote": "",
+
+      "indEscala": null
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 15,
+
+      "cProd": "6145",
+
+      "xProd": "AMENDOA LAMINADA A GRANEL",
+
+      "NCM": "08021200",
+
+      "CFOP": "5102",
+
+      "uCom": "KG",
+
+      "qCom": 0.1,
+
+      "vUnCom": 86.99,
+
+      "vProd": 8.7,
+
+      "vDesc": 0.29,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "102",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 8.41,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 8.41,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "AMENDOA LAMINADA A GRANEL",
+
+      "pRedBC": 0.0,
+
+      "CEST": "0000000",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 16,
+
+      "cProd": "950000120069",
+
+      "xProd": "CHIPS DE BANANA DA AMAZONIA GRANEL",
+
+      "NCM": "21069030",
+
+      "CFOP": "5405",
+
+      "uCom": "KG",
+
+      "qCom": 0.102,
+
+      "vUnCom": 69.99,
+
+      "vProd": 7.14,
+
+      "vDesc": 0.24,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "500",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "pST": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 6.9,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 6.9,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "CHIPS DE BANANA DA AMAZONIA GRANEL",
+
+      "pRedBC": 0.0,
+
+      "vBCSTRet": 0.0,
+
+      "vICMSSTRet": 0.0,
+
+      "CEST": "0301400",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 17,
+
+      "cProd": "8110",
+
+      "xProd": "CHIPS DE BATATA DOCE A GRANEL",
+
+      "NCM": "20059900",
+
+      "CFOP": "5102",
+
+      "uCom": "KG",
+
+      "qCom": 0.102,
+
+      "vUnCom": 67.99,
+
+      "vProd": 6.94,
+
+      "vDesc": 0.23,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "102",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 6.7,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 6.7,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "CHIPS DE BATATA DOCE A GRANEL",
+
+      "pRedBC": 0.0,
+
+      "CEST": "1703200",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 18,
+
+      "cProd": "7896639800455",
+
+      "xProd": "BARRA CARAMEL INT GERGELIM AMENDOIM 120G",
+
+      "NCM": "19041000",
+
+      "CFOP": "5405",
+
+      "uCom": "NULL",
+
+      "qCom": 1.0,
+
+      "vUnCom": 9.45,
+
+      "vProd": 9.45,
+
+      "vDesc": 0.32,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "500",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "pST": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 9.13,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 9.13,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "BARRA CARAMEL INT GERGELIM AMENDOIM 120G",
+
+      "pRedBC": 0.0,
+
+      "vBCSTRet": 0.0,
+
+      "vICMSSTRet": 0.0,
+
+      "CEST": "1703000",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 19,
+
+      "cProd": "950000098664",
+
+      "xProd": "MANTEIGA GERGELIM TAHINE ORIGINAL 180G",
+
+      "NCM": "18032000",
+
+      "CFOP": "5405",
+
+      "uCom": "UN",
+
+      "qCom": 1.0,
+
+      "vUnCom": 15.99,
+
+      "vProd": 15.99,
+
+      "vDesc": 0.54,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "500",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "pST": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 15.45,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 15.45,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "MANTEIGA GERGELIM TAHINE ORIGINAL 180G",
+
+      "pRedBC": 0.0,
+
+      "vBCSTRet": 0.0,
+
+      "vICMSSTRet": 0.0,
+
+      "CEST": "1709401",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 20,
+
+      "cProd": "7896283002717",
+
+      "xProd": "PIPOCA NATURAL ZERO 70G 24",
+
+      "NCM": "20081900",
+
+      "CFOP": "5405",
+
+      "uCom": "UN",
+
+      "qCom": 1.0,
+
+      "vUnCom": 6.65,
+
+      "vProd": 6.65,
+
+      "vDesc": 0.22,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "500",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "pST": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 6.43,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 6.43,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "PIPOCA NATURAL ZERO 70G 24",
+
+      "pRedBC": 0.0,
+
+      "vBCSTRet": 0.0,
+
+      "vICMSSTRet": 0.0,
+
+      "CEST": "1710600",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 21,
+
+      "cProd": "7896001215351",
+
+      "xProd": "MINI CHOCO BRANCO ZERO 13G",
+
+      "NCM": "17049010",
+
+      "CFOP": "5405",
+
+      "uCom": "UN",
+
+      "qCom": 1.0,
+
+      "vUnCom": 2.55,
+
+      "vProd": 2.55,
+
+      "vDesc": 0.09,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "500",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "pST": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 2.46,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 2.46,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "MINI CHOCO BRANCO ZERO 13G",
+
+      "pRedBC": 0.0,
+
+      "vBCSTRet": 0.0,
+
+      "vICMSSTRet": 0.0,
+
+      "CEST": "1700100",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 22,
+
+      "cProd": "950000008653",
+
+      "xProd": "BOLINHA DE DOCE DE LEITE COCO ZERO 10G 18",
+
+      "NCM": "19019020",
+
+      "CFOP": "5405",
+
+      "uCom": "UN",
+
+      "qCom": 1.0,
+
+      "vUnCom": 2.49,
+
+      "vProd": 2.49,
+
+      "vDesc": 0.08,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "500",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "pST": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 2.41,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 2.41,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "BOLINHA DE DOCE DE LEITE COCO ZERO 10G 18",
+
+      "pRedBC": 0.0,
+
+      "vBCSTRet": 0.0,
+
+      "vICMSSTRet": 0.0,
+
+      "CEST": "1702900",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 23,
+
+      "cProd": "950000008653",
+
+      "xProd": "BOLINHA DE DOCE DE LEITE COCO ZERO 10G 18",
+
+      "NCM": "19019020",
+
+      "CFOP": "5405",
+
+      "uCom": "UN",
+
+      "qCom": 1.0,
+
+      "vUnCom": 2.49,
+
+      "vProd": 2.49,
+
+      "vDesc": 0.08,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "500",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "pST": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 2.41,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 2.41,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "BOLINHA DE DOCE DE LEITE COCO ZERO 10G 18",
+
+      "pRedBC": 0.0,
+
+      "vBCSTRet": 0.0,
+
+      "vICMSSTRet": 0.0,
+
+      "CEST": "1702900",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    },
+
+    {
+
+      "_indEscala": "S",
+
+      "qSelo": 0,
+
+      "cSitTrib": null,
+
+      "clEnq": null,
+
+      "cSelo": null,
+
+      "cEnq": null,
+
+      "vBC_IPI": null,
+
+      "pIPI": null,
+
+      "qUnid": null,
+
+      "vUnid": null,
+
+      "qBCProd_PIS": null,
+
+      "vAliqProd_PIS": null,
+
+      "qBCProd_COF": null,
+
+      "vAliqProd_COF": null,
+
+      "vIPI": null,
+
+      "vBC_ISSQN": null,
+
+      "cMunFG": null,
+
+      "vAliq_ISSQN": null,
+
+      "vISSQN": null,
+
+      "vICMSDeson": null,
+
+      "cListServ": null,
+
+      "indISS_ISSQN": null,
+
+      "cServico_ISSQN": null,
+
+      "cMun_ISSQN": null,
+
+      "cPais_ISSQN": null,
+
+      "indIncentivo_ISSQN": null,
+
+      "cEAN": "SEM GTIN",
+
+      "cEANTrib": "SEM GTIN",
+
+      "nItem": 24,
+
+      "cProd": "7898115900963",
+
+      "xProd": "ALFAJOR LEVSLIM CHOCO AO LEITE 25G 12",
+
+      "NCM": "19059020",
+
+      "CFOP": "5405",
+
+      "uCom": "UN",
+
+      "qCom": 1.0,
+
+      "vUnCom": 4.49,
+
+      "vProd": 4.49,
+
+      "vDesc": 0.15,
+
+      "vOutro": 0.0,
+
+      "orig": "0",
+
+      "CST_CSOSN": "500",
+
+      "vBC": 0.0,
+
+      "pICMS": 0.0,
+
+      "vICMS": 0.0,
+
+      "pST": 0.0,
+
+      "CST_PIS": "99",
+
+      "vBC_PIS": 4.34,
+
+      "pPIS": 0.0,
+
+      "vPIS": 0.0,
+
+      "CST_COF": "99",
+
+      "vBC_COF": 4.34,
+
+      "pCOFINS": 0.0,
+
+      "vCOFINS": 0.0,
+
+      "infAdProd": "ALFAJOR LEVSLIM CHOCO AO LEITE 25G 12",
+
+      "pRedBC": 0.0,
+
+      "vBCSTRet": 0.0,
+
+      "vICMSSTRet": 0.0,
+
+      "CEST": "1705601",
+
+      "vLote": "",
+
+      "indEscala": "S"
+
+    }
+
+  ],
+
+  "vTroco": 0.0,
+
+  "vFCP": 0.0,
+
+  "CNPJEntrega": null,
+
+  "CPFEntrega": null,
+
+  "xLgrEntrega": null,
+
+  "nroEntrega": null,
+
+  "xCplEntrega": null,
+
+  "xBairroEntrega": null,
+
+  "xMunEntrega": null,
+
+  "xUFEntrega": null,
+
+  "cMunEntrega": 0,
+
+  "nNF": 1821,
+
+  "Serie": "4",
+
+  "CNPJ": "16456714000149",
+
+  "IDCONS": "",
+
+  "xNome": "",
+
+  "TIPOIDCONS": 0,
+
+  "xlgr": "",
+
+  "nro": "",
+
+  "xBairro": "",
+
+  "cMun": "",
+
+  "xMun": "",
+
+  "UF": "",
+
+  "CEP": "",
+
+  "cPais": "",
+
+  "xPais": "",
+
+  "dhEmi": "2019-11-04T15:47:00-03:00",
+
+  "dhCont": null,
+
+  "xJust": null,
+
+  "finNFe": 1,
+
+  "natOp": "S VENDA MERCADORIAPRODUCAO DO ESTABEL",
+
+  "infCpl": "Valor ICMS Desonerado: 0,00",
+
+  "infAdFisco": "",
+
+  "tpEmis": 1,
+
+  "tpImp": 4,
+
+  "vCOFINS": 0.0,
+
+  "vDesc": 5.5,
+
+  "vNF": 158.75,
+
+  "vPIS": 0.0,
+
+  "vProd": 164.25,
+
+  "vOutro": 0.0,
+
+  "PagNFCeList": [
+
+    {
+
+      "tPag": 4,
+
+      "vPag": 158.75,
+
+      "CardNFCeList": [
+
+        {
+
+          "tpIntegra": 2,
+
+          "CNPJ": "33700394000140",
+
+          "tBand": "02"
+
+        }
+
+      ],
+
+      "indPag": 0
+
+    }
+
+  ],
+
+  "tipoemissao": 0,
+
+  "GeraDanfe": false,
+
+  "DevolveXml": true,
+
+  "TpAmb": 1,
+
+  "TpDanfe": 2,
+
+  "Versao": "4.00"
+
+}
